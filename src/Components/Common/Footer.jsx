@@ -1,3 +1,5 @@
+import '/Common.css'
+
 function Footer()
 {
     return(
