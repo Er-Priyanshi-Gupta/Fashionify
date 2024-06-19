@@ -4,6 +4,7 @@ function MainApp() {
   return (
     <>
     <Navbar />
+      <h1>Welcome to Fashionify</h1>
     </>
   )
 }
